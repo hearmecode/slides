@@ -15,11 +15,11 @@ Hear Me Code Lesson 1
 * Determining whether a phone number or email address is valid and displaying different text based on the result
 
 **Examples in real projects:**
-* Remove common words like "the" from search terms to improve searches: https://github.com/shannonturner/bechdel/blob/master/apps/bechdel/views.py#L66
-* If a search term begins with two **t**s, treat it differently: https://github.com/shannonturner/bechdel/blob/master/apps/bechdel/views.py#L60
-* If a search term is too long, shorten it: https://github.com/shannonturner/bechdel/blob/master/apps/bechdel/views.py#L72
-* Remove single-quotes and other punctuation from search terms: https://github.com/shannonturner/bechdel/blob/master/apps/bechdel/views.py#L58
-* If this state has no quotes, display a message.  Otherwise, show the quotes: https://github.com/shannonturner/shut-that-down/blob/master/apps/shutthatdown/views.py#L150
+* Remove common words like "the" from search terms to improve searches: https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L66
+* If a search term begins with two **t**s, treat it differently: https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L60
+* If a search term is too long, shorten it: https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L72
+* Remove single-quotes and other punctuation from search terms: https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L58
+* If this state has no quotes, display a message.  Otherwise, show the quotes: https://github.com/shannonturner/shut-that-down/blob/1f1bd488a3fea3a5ee8cbb20675d053d088cbba1/apps/shutthatdown/views.py#L150
 
 **Code Samples:**
 * https://github.com/shannonturner/python-lessons/tree/master/section_01_(basics)

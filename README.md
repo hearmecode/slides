@@ -1,4 +1,9 @@
-python
+Hear Me Code's slides
 ======
 
-Slides for Hear Me Code's python lessons
+See the README in each folder for an outline of each lesson as well as why we're learning it and practical examples of what each lesson can help us achieve.
+
+Each folder contains the slides in multiple formats:
+* PDF
+* PowerPoint (.pptx)
+* Keynote (.zip)

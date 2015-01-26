@@ -25,9 +25,9 @@ Hear Me Code Lesson 2
 **Examples in real projects:**
 * For each movie matching the search terms, add it to the database if it doesn't already exist: [Used in http://shannonvturner.com/bechdel](https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L100)
 * Show all choices when more than one movie matched the search terms [Used in http://shannonvturner.com/bechdel](https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L148)
+* Split a string into a list on the newlines: [Used in http://shannonvturner.com/seriously](https://github.com/shannonturner/seriously/blob/e157c59c601ad66c8a5a6e1c3562377552a858ff/geocode.py#L7)
 * For each school in a list, find its latitude and longitude and save that information in a list: [Used in http://shannonvturner.com/seriously](https://github.com/shannonturner/seriously/blob/e157c59c601ad66c8a5a6e1c3562377552a858ff/geocode.py#L11)
 * Create a specific number of bingo sheets: [Used in a bingo sheet generator](https://github.com/shannonturner/bingo-sheets/blob/master/bingo.py#L35)
-* Split a string into a list on the newlines: [Used in http://shannonvturner.com/seriously](https://github.com/shannonturner/seriously/blob/e157c59c601ad66c8a5a6e1c3562377552a858ff/geocode.py#L7)
 * If one or two artworks don't load, get a new artwork to replace it until we have two artworks that do load: [Used in http://shannonvturner.com/art/mash](https://github.com/shannonturner/art-games/blob/59809fe951bcfd83e984039b82d9ae1191b04fe2/apps/mash/museum_apis/victoria_albert_museum_api.py#L71)
 
 **Code Samples:**

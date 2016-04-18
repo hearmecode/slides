@@ -15,6 +15,7 @@ Hear Me Code Lesson 1
 * Determining whether a phone number or email address is valid and displaying different text based on the result
 
 **Examples in real projects:**
+* Verifying that a Social Security number is valid: [https://github.com/suellenf/hearmecode/blob/master/demos/lesson1_demo_ssn_test_loop.py](https://github.com/suellenf/hearmecode/blob/master/demos/lesson1_demo_ssn_test_loop.py#L15)
 * Remove common words like "the" from search terms to improve searches: [Used in http://shannonvturner.com/bechdel](https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L66)
 * If a search term begins with two **t**s, treat it differently: [Used in http://shannonvturner.com/bechdel](https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L60)
 * If a search term is too long, shorten it: [Used in http://shannonvturner.com/bechdel](https://github.com/shannonturner/bechdel/blob/d1b4d805277b74456c4c1d9500b48b994ed77e57/apps/bechdel/views.py#L72)

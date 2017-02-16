@@ -1,6 +1,6 @@
 # Yes, you need a portfolio!
 
-[https://docs.google.com/presentation/d/1KPo7gUGNRpUlWOiwMI8VrFouvv4tL05SWkwbhzwJ4wY](Slides available here)
+[Slides available here](https://docs.google.com/presentation/d/1KPo7gUGNRpUlWOiwMI8VrFouvv4tL05SWkwbhzwJ4wY)
 
 The presenters' notes have lots of helpful notes and can help give you an idea of my train of thought as I put together this presentation.
 

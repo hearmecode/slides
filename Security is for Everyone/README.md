@@ -1,6 +1,11 @@
 Hear Me Code - Security is for Everyone
 ======
 
+### Video series for Part One is on YouTube: https://www.youtube.com/playlist?list=PLnmX4wM34SkdN3Mg7vyVrbHYqc8XPjNsS
+
+### [Slides for Part One (PDF)](https://github.com/hearmecode/slides/raw/master/Security%20is%20for%20Everyone/Part%20One/Hear%20Me%20Code%20-%20Security%20is%20for%20Everyone%20-%20Part%20One.pdf)
+### [Slides for Part Two (PDF)](https://github.com/hearmecode/slides/raw/master/Security%20is%20for%20Everyone/Part%20Two/Hear%20Me%20Code%20-%20Security%20is%20for%20Everyone%20-%20Part%20Two.pdf)
+
 Part One
 --------
 

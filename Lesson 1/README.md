@@ -28,6 +28,7 @@ Hear Me Code Lesson 1
 * https://github.com/shannonturner/python-lessons/tree/master/section_03_(conditionals)
 
 **Exercises:**
+* Twitter: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson01_twitter.py
 * PB&J: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson01_pbj.py
 
 ###Vocabulary

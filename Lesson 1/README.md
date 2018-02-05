@@ -31,7 +31,7 @@ Hear Me Code Lesson 1
 * Twitter: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson01_twitter.py
 * PB&J: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson01_pbj.py
 
-###Vocabulary
+### Vocabulary
 
 **Concepts Learned:**
 * Variables

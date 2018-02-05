@@ -41,7 +41,7 @@ Hear Me Code Lesson 2
 * States (Intermediate): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_states.py
 * Movies (Advanced): https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson02_movies.py
 
-###Vocabulary
+### Vocabulary
 
 **Concepts Learned:**
 * Lists

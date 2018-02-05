@@ -29,7 +29,7 @@ Hear Me Code Lesson 5
 **Exercises:**
 * Bechdel Test API: https://github.com/shannonturner/python-lessons/blob/master/playtime/lesson05_firstapi.py
 
-###Vocabulary
+### Vocabulary
 
 **Concepts learned:**
 * APIs
